@@ -84,9 +84,6 @@ P {
     background: url('/images/image-kira.jpg') no-repeat;
     background-size: contain;
 }
-/* .innerbox-3 {
-    width: 90%;
-} */
 .box-4 {
     background-color: hsl(0, 0%, 100%);
     grid-row: 3 / 5;
