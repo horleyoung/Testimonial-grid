@@ -18,7 +18,7 @@ body {
     font-weight: 600;
     font-style: normal;
 } 
-.innerbox,.innerbox-,.innerbox-3,
+.innerbox,.innerbox-3,
 .innerbox-4,.innerbox-5 {
     width: 90%;
     padding: 1.3rem;  
@@ -84,9 +84,6 @@ P {
     background: url('/images/image-kira.jpg') no-repeat;
     background-size: contain;
 }
-/* .innerbox-3 {
-    width: 90%;
-} */
 .box-4 {
     background-color: hsl(0, 0%, 100%);
     grid-row: 3 / 5;
@@ -136,6 +133,4 @@ P {
         font-family: 'Barlow Semi Condensed', sans-serif;
         font-weight: 600;
     }  
-
-
 }
