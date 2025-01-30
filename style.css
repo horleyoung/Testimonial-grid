@@ -141,7 +141,6 @@ P {
         width: auto;
         padding: 1.5rem;
         word-wrap: break-word;
-        overflow-wrap: break-word;
         text-overflow: ellipsis;
     }
 }
